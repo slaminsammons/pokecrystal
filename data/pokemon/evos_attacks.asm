@@ -2056,11 +2056,11 @@ MewEvosAttacks:
 	db 0 ; no more level-up moves
 
 ChikoritaEvosAttacks:
-	db EVOLVE_LEVEL, 16, BAYLEEF
+	db EVOLVE_LEVEL, 17, BAYLEEF
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
-	db 8, RAZOR_LEAF
+	db 7, RAZOR_LEAF
 	db 12, REFLECT
 	db 15, POISONPOWDER
 	db 22, SYNTHESIS
@@ -2104,16 +2104,16 @@ MeganiumEvosAttacks:
 	db 0 ; no more level-up moves
 
 CyndaquilEvosAttacks:
-	db EVOLVE_LEVEL, 14, QUILAVA
+	db EVOLVE_LEVEL, 17, QUILAVA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, LEER
-	db 6, SMOKESCREEN
-	db 12, EMBER
+	db 7, EMBER
+	db 12, SMOKESCREEN
 	db 19, QUICK_ATTACK
 	db 27, FLAME_WHEEL
 	db 36, SWIFT
-	db 46, FLAMETHROWER
+	db 42, FLAMETHROWER
 	db 0 ; no more level-up moves
 
 QuilavaEvosAttacks:
@@ -2121,13 +2121,13 @@ QuilavaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, LEER
-	db 1, SMOKESCREEN
+	db 1, EMBER
 	db 6, SMOKESCREEN
 	db 12, EMBER
 	db 21, QUICK_ATTACK
 	db 31, FLAME_WHEEL
 	db 42, SWIFT
-	db 54, FLAMETHROWER
+	db 48, FLAMETHROWER
 	db 0 ; no more level-up moves
 
 TyphlosionEvosAttacks:
@@ -2141,16 +2141,16 @@ TyphlosionEvosAttacks:
 	db 21, QUICK_ATTACK
 	db 31, FLAME_WHEEL
 	db 45, SWIFT
-	db 60, FLAMETHROWER
+	db 51, FLAMETHROWER
 	db 0 ; no more level-up moves
 
 TotodileEvosAttacks:
-	db EVOLVE_LEVEL, 18, CROCONAW
+	db EVOLVE_LEVEL, 17, CROCONAW
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
-	db 7, RAGE
-	db 13, WATER_GUN
+	db 7, WATER_GUN
+	db 13, RAGE
 	db 20, BITE
 	db 27, SCARY_FACE
 	db 35, SLASH
@@ -2159,7 +2159,7 @@ TotodileEvosAttacks:
 	db 0 ; no more level-up moves
 
 CroconawEvosAttacks:
-	db EVOLVE_LEVEL, 30, FERALIGATR
+	db EVOLVE_LEVEL, 34, FERALIGATR
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
@@ -2214,7 +2214,7 @@ FurretEvosAttacks:
 	db 0 ; no more level-up moves
 
 HoothootEvosAttacks:
-	db EVOLVE_LEVEL, 20, NOCTOWL
+	db EVOLVE_LEVEL, 18, NOCTOWL
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -2231,11 +2231,12 @@ NoctowlEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
-	db 1, FORESIGHT
+	db 1, WING_ATTACK
 	db 1, PECK
 	db 6, FORESIGHT
 	db 11, PECK
 	db 16, HYPNOSIS
+	db 21, WING_ATTACK
 	db 25, REFLECT
 	db 33, TAKE_DOWN
 	db 41, CONFUSION
@@ -2735,7 +2736,8 @@ PinecoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, PROTECT
-	db 8, SELFDESTRUCT
+	db 8, LEECH_LIFE
+	db 12, SELFDESTRUCT
 	db 15, TAKE_DOWN
 	db 22, RAPID_SPIN
 	db 29, BIDE

@@ -1,0 +1,21 @@
+9/19/23 - 0.0.1
+-Updated Falkners Party
+-Updated Bugsy's Party
+-Changed Noctowl Learnset to include Wing Attack
+- Pineco learns Leech Life at lvl 8, learns Self Destruct at lvl 12
+-Hoot Hoot evolves to Noctowl at 18 instead of 20
+- Starters all learn STAB attacking moves at 7
+-Swapped Cyndaquil ember and smokescreen
+-Cyndaquil line learns Flamethrower earlier.
+-Swapped Rage and Water Gun for Totodile
+-Made Dragon Physical, Ghost special
+- Vicegrip from 55 BP to 65 BP
+- Cut is now Bug type
+- Vine Whip from 35 to 45 BP, 10 PP to 15 PP
+- Tackle from 35 BP to 40 BP
+-Peck from 35 BP to 40 BP
+- Petal Dance from 70 BP to 95 BP
+- Made kinesis 100% accurate
+- Leech Life from 20 BP to 45 BP
+- Hi Jump Kick from 85 BP to 130. Accuracy from 90 to 75
+- Outrage from 90 BP to 95 BP

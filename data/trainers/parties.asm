@@ -12,9 +12,11 @@ Trainers:
 
 FalknerGroup:
 	; FALKNER (1)
+	; 9/19 changes
+	; Increased Pidgey Level. Switched Pidgeotto for Noctowl. Upped level for Noctowl
 	db "FALKNER@", TRAINERTYPE_MOVES
-	db  7, PIDGEY,     TACKLE, MUD_SLAP, NO_MOVE, NO_MOVE
-	db  9, PIDGEOTTO,  TACKLE, MUD_SLAP, GUST, NO_MOVE
+	db  9, PIDGEY,     TACKLE, MUD_SLAP, GUST, NO_MOVE
+	db  11, NOCTOWL,   TACKLE, MUD_SLAP, WING_ATTACK, NO_MOVE
 	db -1 ; end
 
 WhitneyGroup:
@@ -26,10 +28,13 @@ WhitneyGroup:
 
 BugsyGroup:
 	; BUGSY (1)
+	; 9/19 changes
+	; Removed Metapod and kakuna
+	; Added Heracross and Pineco. Buffed levels
 	db "BUGSY@", TRAINERTYPE_MOVES
-	db 14, METAPOD,    TACKLE, STRING_SHOT, HARDEN, NO_MOVE
-	db 14, KAKUNA,     POISON_STING, STRING_SHOT, HARDEN, NO_MOVE
-	db 16, SCYTHER,    QUICK_ATTACK, LEER, FURY_CUTTER, NO_MOVE
+	db 14, PINECO,     HEADBUTT, LEECH_LIFE, DEFENSE_CURL, SELFDESTRUCT
+	db 15, HERACROSS,  CUT, HORN_ATTACK, ROCK_SMASH, NO_MOVE
+	db 17, SCYTHER,    QUICK_ATTACK, LEER, FURY_CUTTER, NO_MOVE
 	db -1 ; end
 
 MortyGroup:
