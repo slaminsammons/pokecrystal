@@ -1,6 +1,6 @@
 9/19/23 - 0.0.1
--Updated Falkners Party
--Updated Bugsy's Party
+-Updated Falkners Party, upped levels removed Pidgeotto added Noctowl
+-Updated Bugsy's Party, upped levels, removed Metapod and Kakuna, added Pineco and Heracross
 -Changed Noctowl Learnset to include Wing Attack
 - Pineco learns Leech Life at lvl 8, learns Self Destruct at lvl 12
 -Hoot Hoot evolves to Noctowl at 18 instead of 20
