@@ -2223,6 +2223,7 @@ HoothootEvosAttacks:
 	db 6, FORESIGHT
 	db 11, PECK
 	db 16, HYPNOSIS
+	db 9, WING_ATTACK
 	db 22, REFLECT
 	db 28, TAKE_DOWN
 	db 34, CONFUSION
@@ -2251,13 +2252,14 @@ LedybaEvosAttacks:
 	db 1, TACKLE
 	db 8, SUPERSONIC
 	db 15, COMET_PUNCH
+	db 19, MACH_PUNCH
 	db 22, LIGHT_SCREEN
 	db 22, REFLECT
 	db 22, SAFEGUARD
 	db 29, BATON_PASS
 	db 36, SWIFT
-	db 43, AGILITY
-	db 50, DOUBLE_EDGE
+	db 38, AGILITY
+	db 43, CROSS_CHOP
 	db 0 ; no more level-up moves
 
 LedianEvosAttacks:
@@ -2266,13 +2268,14 @@ LedianEvosAttacks:
 	db 1, SUPERSONIC
 	db 8, SUPERSONIC
 	db 15, COMET_PUNCH
+	db 22, MACH_PUNCH
 	db 24, LIGHT_SCREEN
 	db 24, REFLECT
 	db 24, SAFEGUARD
 	db 33, BATON_PASS
 	db 42, SWIFT
-	db 51, AGILITY
-	db 60, DOUBLE_EDGE
+	db 46, AGILITY
+	db 51, CROSS_CHOP
 	db 0 ; no more level-up moves
 
 SpinarakEvosAttacks:
@@ -2406,23 +2409,25 @@ NatuEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, LEER
-	db 10, NIGHT_SHADE
-	db 20, TELEPORT
-	db 30, FUTURE_SIGHT
-	db 40, CONFUSE_RAY
-	db 50, PSYCHIC_M
+	db 9, CONFUSION
+	db 20, NIGHT_SHADE
+	db 26, CONFUSE_RAY
+	db 30, PSYBEAM
+	db 40, FUTURE_SIGHT
+	db 45, PSYCHIC_M
 	db 0 ; no more level-up moves
 
 XatuEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, LEER
-	db 1, NIGHT_SHADE
-	db 10, NIGHT_SHADE
-	db 20, TELEPORT
-	db 35, FUTURE_SIGHT
-	db 50, CONFUSE_RAY
-	db 65, PSYCHIC_M
+	db 1, CONFUSION
+	db 9, CONFUSION
+	db 20, NIGHT_SHADE
+	db 29, CONFUSE_RAY
+	db 35, PSYBEAM
+	db 50, FUTURE_SIGHT
+	db 55, PSYCHIC_M
 	db 0 ; no more level-up moves
 
 MareepEvosAttacks:
@@ -2526,9 +2531,10 @@ HoppipEvosAttacks:
 	db EVOLVE_LEVEL, 18, SKIPLOOM
 	db 0 ; no more evolutions
 	db 1, SPLASH
+	db 1, TACKLE
 	db 5, SYNTHESIS
 	db 5, TAIL_WHIP
-	db 10, TACKLE
+	db 10, GUST
 	db 13, POISONPOWDER
 	db 15, STUN_SPORE
 	db 17, SLEEP_POWDER
@@ -2546,7 +2552,7 @@ SkiploomEvosAttacks:
 	db 1, TACKLE
 	db 5, SYNTHESIS
 	db 5, TAIL_WHIP
-	db 10, TACKLE
+	db 10, GUST
 	db 13, POISONPOWDER
 	db 15, STUN_SPORE
 	db 17, SLEEP_POWDER
@@ -2563,7 +2569,7 @@ JumpluffEvosAttacks:
 	db 1, TACKLE
 	db 5, SYNTHESIS
 	db 5, TAIL_WHIP
-	db 10, TACKLE
+	db 10, GUST
 	db 13, POISONPOWDER
 	db 15, STUN_SPORE
 	db 17, SLEEP_POWDER

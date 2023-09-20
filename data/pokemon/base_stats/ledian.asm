@@ -1,9 +1,10 @@
 	db LEDIAN ; 166
-
-	db  55,  35,  50,  85,  55, 110
+    ; Increased Attack from  35 to 80. Decreased Special Attack from 55 to 50
+	db  55,  80,  50,  85,  50, 110
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, FLYING ; type
+    ;Changed from Bug/Flying to Bug/Fighting
+	db BUG, FIGHTING ; type
 	db 90 ; catch rate
 	db 134 ; base exp
 	db NO_ITEM, NO_ITEM ; items

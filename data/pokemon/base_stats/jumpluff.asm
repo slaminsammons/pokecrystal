@@ -1,6 +1,7 @@
 	db JUMPLUFF ; 189
 
-	db  75,  55,  70, 110,  55,  85
+    ;Increased special attack to 70 from 55
+	db  75,  55,  70, 110,  70,  85
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, FLYING ; type

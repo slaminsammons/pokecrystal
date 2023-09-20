@@ -1,3 +1,32 @@
+V0.0.3
+- Natu added to Sprout tower. 5% chance of spawning on both floors.
+- Xatu/Natu learn Night Shade at level 9
+- Xatu/natu now learn Confuse Ray at 29 and 29 respectfully.
+- Xatu/Natu added Psybeam levels 35 and 30 respectfully.
+- Xatu/Natu Future Sight now at lvl 50/40
+- Xatu/Natu Psychic now learned at lvl 55/45
+- Xatu/Natu now learn Mud-Slap, Falkner TM
+- Updated Falkner Party. Replaced Pidgey with Natu. Added Growl to Noctowl.
+- Violet Gym, Bird Keeper Rod. Replaced one Pidgey with a HootHoot
+- First Rival battle all starters now level 7. Should have STAB attack now.
+- Route 30. Youngster Mikey. Swapped Pidgey for Hoothoot. Swapped Rattata for Marill
+- Route 30. Bug Catcher Don. Swapped Caterpie's for Ledian and Spinarak.
+- Route 30. Youngster Joey. Final Rematch now has level 65 Raticate.
+- Lowered Rival 1 to level 6. Cannot catch pokemon before R1 fight and it's very difficult.
+- Hoppip line to learn Tackle as base. Tackle level up learn replaced with Gust
+- Jumpluff SpcAttack from 55 to 70
+- Ledian. Now Bug/Fighting type
+- Ledian. Increased Attack from  35 to 80. Decreased Special Attack from 55 to 50
+- Ledyba/Ledian. Learns Mach Punch at lvl 19/22.
+- Ledyba/Ledian. Learns Cross Chop at lvl 43/51.
+- Route 31. Bug Catcher Wade. Swapped Caterpie #2 for Level 5 Metapod. Swapped Caterpie #3 for level 5 Kakuna. Weedle now second at level 2
+- Bug Catcher Wade battle 2. Same order as above Battle. Level 9 Metapod/Kakuna. Level 11 Metapod/Kakuna
+- Bug Catcher Wade battle 3. Same order as above Battle. Level 14 Butterfree/Beedrill. Level 16 Butterfree/Beedrill
+- Bug Catcher Wade battle 4. Same order as above Battle. Level 24 Butterfree/Beedrill. Level 27 Butterfree/Beedrill
+- Bug Catcher Wade battle 4. Same order as above Battle. Level 52 Butterfree/Beedrill. Level 55 Butterfree/Beedrill
+- Sage Chow Sprout Tower. Now has 4 Bellsprout instead of 3. All level 2 instead of 3
+- Sage Nico Sprout Tower. Now has 2 Bellsprout instead of 3. All level 4 instead of 3.
+- Sage Nico Sprout Tower. Now has 2 Bellsprout instead of 1. All level 5 instead of 6.
 V 0.0.2
 - Arbok Increased Attack from 85 to 90, Speed from 80 to 90, SpcDef from 79 to 80
 - Arbok/Ekans learn Sludge Bomb last, Acid is now at level 21. Haze is learned at the level Acid was learned
@@ -36,9 +65,9 @@ V 0.0.2
 - Slowpoke evolves to Slowking by using King's Rock instead of trade while holding.
 - Seadra evolves to Kingdra by using Dragon's Scale instead of trade while holding.
 - Porygon evolves to Porygon-2 by using Upgrade instead of trade while holding.
-- Sprout Tower. Bellsprout now has 5% chance of spawning at all times at level 5
+- Sprout Tower. Bellsprout now has 10% chance of spawning at all times at level 4
 - Removed BellSprout from route 31. Replaced with Hoppip, except at night. Replaced with Poliwag
-- Hoppip 1% chance of spawning on Route 31 replaced with Pichu
+- Hoppip 1% chance of spawning on Route 31 replaced with Pichu at level 2
 V 0.0.1
 - Updated Falkners Party, upped levels removed Pidgeotto added Noctowl
 - Updated Bugsy's Party, upped levels, removed Metapod and Kakuna, added Pineco and Heracross
