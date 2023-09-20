@@ -8,7 +8,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 3, BELLSPROUT
 	db 6, RATTATA
 	db 5, RATTATA
 	db 5, RATTATA
@@ -16,7 +16,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 3, BELLSPROUT
 	db 6, RATTATA
 	db 5, RATTATA
 	db 5, RATTATA
@@ -24,7 +24,7 @@ JohtoGrassWildMons:
 	db 3, GASTLY
 	db 4, GASTLY
 	db 5, GASTLY
-	db 3, RATTATA
+	db 3, BELLSPROUT
 	db 6, GASTLY
 	db 5, RATTATA
 	db 5, RATTATA
@@ -36,7 +36,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 5, BELLSPROUT
 	db 6, RATTATA
 	db 5, RATTATA
 	db 5, RATTATA
@@ -44,7 +44,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 3, BELLSPROUT
 	db 6, RATTATA
 	db 5, RATTATA
 	db 5, RATTATA
@@ -52,7 +52,7 @@ JohtoGrassWildMons:
 	db 3, GASTLY
 	db 4, GASTLY
 	db 5, GASTLY
-	db 3, RATTATA
+	db 5, BELLSPROUT
 	db 6, GASTLY
 	db 5, RATTATA
 	db 5, RATTATA
@@ -1186,24 +1186,24 @@ JohtoGrassWildMons:
 	db 2, GEODUDE
 	db 4, GEODUDE
 	db 2, TEDDIURSA
-	db 4, ZUBAT
 	db 4, DUNSPARCE
+	db 4, LARVITAR
 	; day
 	db 3, GEODUDE
 	db 2, ZUBAT
 	db 2, GEODUDE
 	db 4, GEODUDE
 	db 2, ZUBAT
-	db 4, ZUBAT
 	db 4, DUNSPARCE
+	db 4, LARVITAR
 	; nite
 	db 3, GEODUDE
 	db 2, ZUBAT
 	db 2, GEODUDE
 	db 4, GEODUDE
 	db 2, ZUBAT
-	db 4, ZUBAT
 	db 4, DUNSPARCE
+	db 4, LARVITAR
 	end_grass_wildmons
 
 	def_grass_wildmons DARK_CAVE_BLACKTHORN_ENTRANCE
@@ -1240,16 +1240,16 @@ JohtoGrassWildMons:
 	db 2, PIDGEY
 	db 2, SENTRET
 	db 3, PIDGEY
-	db 3, SENTRET
 	db 2, RATTATA
+	db 3, TEDDIURSA
 	db 3, HOPPIP
 	db 3, HOPPIP
 	; day
 	db 2, PIDGEY
 	db 2, SENTRET
 	db 3, PIDGEY
-	db 3, SENTRET
 	db 2, RATTATA
+	db 3, TEDDIURSA
 	db 3, HOPPIP
 	db 3, HOPPIP
 	; nite
@@ -1267,17 +1267,17 @@ JohtoGrassWildMons:
 	; morn
 	db 3, LEDYBA
 	db 3, CATERPIE
-	db 4, CATERPIE
-	db 4, PIDGEY
 	db 3, WEEDLE
+	db 4, PIDGEY
+	db 4, MARILL
 	db 4, HOPPIP
 	db 4, HOPPIP
 	; day
 	db 3, PIDGEY
 	db 3, CATERPIE
-	db 4, CATERPIE
-	db 4, PIDGEY
 	db 3, WEEDLE
+	db 4, PIDGEY
+	db 4, MARILL
 	db 4, HOPPIP
 	db 4, HOPPIP
 	; nite
@@ -1295,23 +1295,23 @@ JohtoGrassWildMons:
 	; morn
 	db 4, LEDYBA
 	db 4, CATERPIE
-	db 5, BELLSPROUT
+	db 5, HOPPIP
 	db 5, PIDGEY
 	db 4, WEEDLE
 	db 5, HOPPIP
-	db 5, HOPPIP
+	db 2, PICHU
 	; day
-	db 4, PIDGEY
+	db 4, LEDYBA
 	db 4, CATERPIE
-	db 5, BELLSPROUT
+	db 5, HOPPIP
 	db 5, PIDGEY
 	db 4, WEEDLE
 	db 5, HOPPIP
-	db 5, HOPPIP
+	db 2, PICHU
 	; nite
 	db 4, SPINARAK
 	db 4, POLIWAG
-	db 5, BELLSPROUT
+	db 5, POLIWAG
 	db 5, HOOTHOOT
 	db 4, ZUBAT
 	db 5, GASTLY

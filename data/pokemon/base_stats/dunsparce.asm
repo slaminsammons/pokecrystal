@@ -1,9 +1,9 @@
 	db DUNSPARCE ; 206
-
-	db 100,  70,  70,  45,  65,  65
+    ;Increased HP to 110 from 100, Attack to 80 from 70, SpcAtk and SpcDef from 65 to 70
+	db 110,  80,  70,  45,  70,  70
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db NORMAL, DRAGON ; type
 	db 190 ; catch rate
 	db 75 ; base exp
 	db NO_ITEM, NO_ITEM ; items

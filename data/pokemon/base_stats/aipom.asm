@@ -1,6 +1,7 @@
 	db AIPOM ; 190
 
-	db  55,  70,  55,  85,  40,  55
+    ;Increased DEF to 65 from 55, SPEED 85 to 105, Attack from 65 to 80
+	db  55,  80,  65,  105,  40,  55
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, NORMAL ; type

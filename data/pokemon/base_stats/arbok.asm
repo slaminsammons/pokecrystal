@@ -1,6 +1,7 @@
 	db ARBOK ; 024
 
-	db  60,  85,  69,  80,  65,  79
+    ;Increased Attack from 85 to 90, Speed from 80 to 90, SpcDef from 79 to 80
+	db  60,  90,  69,  90,  65,  80
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type

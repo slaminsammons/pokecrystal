@@ -1,6 +1,7 @@
 	db ARIADOS ; 168
 
-	db  70,  90,  70,  40,  60,  60
+    ; Increased SpcDef from 60 to 70. Attack from 90 to 95; Speed to 75
+	db  70,  95,  70,  75,  60,  70
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, POISON ; type

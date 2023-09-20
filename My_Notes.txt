@@ -1,14 +1,55 @@
-9/19/23 - 0.0.1
--Updated Falkners Party, upped levels removed Pidgeotto added Noctowl
--Updated Bugsy's Party, upped levels, removed Metapod and Kakuna, added Pineco and Heracross
--Changed Noctowl Learnset to include Wing Attack
+V 0.0.2
+- Arbok Increased Attack from 85 to 90, Speed from 80 to 90, SpcDef from 79 to 80
+- Arbok/Ekans learn Sludge Bomb last, Acid is now at level 21. Haze is learned at the level Acid was learned
+- Aipom Increased DEF to 65 from 55, SPEED 85 to 105, Attack from 65 to 80
+- Aipom. Learns Headbutt instead of Fury Swipes. Swift at 19, HeadButt at 27. Learns Hyper Beam at 55
+- Ariados. Increased SpcDef from 60 to 70. Attack from 90 to 95, Speed from 40 to 75
+- Spinarak. Evolves to Ariados at 14 instead of 22.
+- Spinarak/Ariados. Constrict is a default move.  Leech Life learned before new evolve alongside Bite. Night Shade is now later.
+- Azumarril Increased SpAttack from 50 to 75
+- Beedrill Increased Attack from 80 to 100,Speed from 75 to 85
+- Pin Missile Increased BP from 14 to 20
+- TwinNeedle Increased BP from 25 to 35
+- Teddiursa has a 5% chance of spawning on Route 29 in Morning and day at level 3.
+- Sentret from 40 to 30% chance of spawning on Route 29(Morning/Day)
+- Rattata from 5% to 10% chance of spawning on Route 29(Morning/Day)
+- Added Marrill to Route 30 with 5% chance of spawning.(Morning/Day)
+- Increased Weedle spawn rate on route 30 from 5% to 20%(Morning/Day)
+- Lowered Caterpie spawn rate on Route 30 from 50% to 30%(Morning/Day)
+- Ledyba spawns during the Day at the same rate as morning on Route 31, same as Pidgey
+- Dark Cave Violet Dunsparce all hours from 1% chance to 4% chance of spawning
+- Dark Cave Violet Larvitar added as 1% chance of spawning at all hours
+- Dark Cave Violet Zubat 4% encounter removed Day and Night
+- Dunsparce now Normal/Dragon type.
+- Dunsparce learns Dragon Rage instead of Spite at level 18
+- Dunsparce now learns DragonBreath at level 34
+- Dunsparce now learns Body Slam at level 38 instead of Take Down
+- Dunsparce now learns Outrage at level 55
+- Dunsparce Increased HP to 110 from 100, Attack to 80 from 70, SpcAtk and SpcDef from 65 to 70
+- Graveler evolves to Golem at level 38 instead of Trade.
+- Machoke evolves to Machamp at level 38 instead of trade
+- Kadabra evolves to Alakazam at level 42 instead of Trade
+- Haunter evolves to Gengar at level 42 instead of Trade
+- Onix evolves to Steelix by using Metal Coat instead of trade while holding.
+- Scyther evolves to Scizor by using Metal Coat instead of trade while holding.
+- Poliwhirl evolves to Politoed by using King's Rock instead of trade while holding.
+- Slowpoke evolves to Slowking by using King's Rock instead of trade while holding.
+- Seadra evolves to Kingdra by using Dragon's Scale instead of trade while holding.
+- Porygon evolves to Porygon-2 by using Upgrade instead of trade while holding.
+- Sprout Tower. Bellsprout now has 5% chance of spawning at all times at level 5
+- Removed BellSprout from route 31. Replaced with Hoppip, except at night. Replaced with Poliwag
+- Hoppip 1% chance of spawning on Route 31 replaced with Pichu
+V 0.0.1
+- Updated Falkners Party, upped levels removed Pidgeotto added Noctowl
+- Updated Bugsy's Party, upped levels, removed Metapod and Kakuna, added Pineco and Heracross
+- Changed Noctowl Learnset to include Wing Attack
 - Pineco learns Leech Life at lvl 8, learns Self Destruct at lvl 12
--Hoot Hoot evolves to Noctowl at 18 instead of 20
+- Hoot Hoot evolves to Noctowl at 18 instead of 20
 - Starters all learn STAB attacking moves at 7
--Swapped Cyndaquil ember and smokescreen
--Cyndaquil line learns Flamethrower earlier.
--Swapped Rage and Water Gun for Totodile
--Made Dragon Physical, Ghost special
+- Swapped Cyndaquil ember and smokescreen
+- Cyndaquil line learns Flamethrower earlier.
+- Swapped Rage and Water Gun for Totodile
+- Made Dragon Physical, Ghost special
 - Vicegrip from 55 BP to 65 BP
 - Cut is now Bug type
 - Vine Whip from 35 to 45 BP, 10 PP to 15 PP

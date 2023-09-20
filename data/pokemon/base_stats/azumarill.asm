@@ -1,6 +1,7 @@
 	db AZUMARILL ; 184
 
-	db 100,  50,  80,  50,  50,  80
+    ; Increased SpAttack from 50 to 75
+	db 100,  50,  80,  50,  75,  80
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type
